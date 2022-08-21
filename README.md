@@ -16,7 +16,7 @@ nextSmaller(531) == 513
 nextSmaller(2071) == 2017
 ```
 
-Return -1, when there is no smaller number that contains the same digits. Also return -1 when the next smaller number with the same digits would require the leading digit to be zero.
+Return `-1`, when there is no smaller number that contains the same digits. Also return `-1` when the next smaller number with the same digits would require the leading digit to be zero.
 
 ```
 nextSmaller(9) == -1
